@@ -1,0 +1,66 @@
+html {
+    margin: 0px;
+    padding: 0px;
+    min-width: 750px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+
+.floatRight {
+    float: right;
+}
+
+.floatLeft {
+    float: left;
+}
+
+span {
+    padding: 10px;
+}
+
+nav {
+    width: 250px;
+}
+
+#container {
+    margin-left: 255px;
+    margin-right: 255px;
+    padding: 30px;
+}
+
+aside {
+    width: 250px;
+    background-color: darkgray;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul > li {
+    list-style: none;
+}
+
+ul > li > a {
+    text-decoration: none;
+    background-color: darkgray;
+    padding: 10px;
+    display: block;
+    border-bottom: 1pt solid white;
+    color: white;
+}
+
+#header {
+    background-color: darkgray;
+    padding: 45px;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
